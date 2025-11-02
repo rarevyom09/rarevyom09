@@ -1,7 +1,7 @@
 # 👋🏻Vyom Padalia
 ### 📽️Passionate about building things which impact masses
 # 💫 About Me:
-🔭 I’m currently building "AtomiCity"<br>🌱 I’m currently learning concepts of Machine Learning <br>⚡ Crazy fact: Can ping me at any time for brainstorming about the next project to build
+🌱 I’m currently learning concepts of Machine Learning <br>⚡ Crazy fact: Can ping me at any time for brainstorming about the next project to build
 
 ## Connect with me:
 - Email: [vyompadalia028@gmail.com](mailto:vyompadalia028@gmail.com)
